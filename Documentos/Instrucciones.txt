@@ -1,0 +1,10 @@
+Instrucciones: Realice lo que a continuación se le solicita dejando evidencia de 
+cada paso ejecutado en un documento. 
+1. Cree un proyecto nuevo en su cuenta de Jira llamado Parcial2-
+NombreEstudiante. 
+2. En su proyecto añada 5 épicas que utilizaría para la creación de un sistema 
+para control de notas para estudiantes de un colegio. 
+3. En cada épica agregue 3 historias de usuario. 
+4. Inicie el Sprint 1 de 3 semanas con al menos una historia de cada épica. 
+5. Avancé las tareas en el tablero o dashboard y agregué el correo 
+trmorales@uvg.edu.gt al proyecto.
